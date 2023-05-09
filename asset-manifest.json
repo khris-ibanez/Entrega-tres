@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Entrega-tres.git/static/js/main.03c2bb8e.js",
-    "static/js/787.066568cb.chunk.js": "/Entrega-tres.git/static/js/787.066568cb.chunk.js",
-    "index.html": "/Entrega-tres.git/index.html",
-    "main.03c2bb8e.js.map": "/Entrega-tres.git/static/js/main.03c2bb8e.js.map",
-    "787.066568cb.chunk.js.map": "/Entrega-tres.git/static/js/787.066568cb.chunk.js.map"
+    "main.js": "/Entrega-tres/static/js/main.bf622570.js",
+    "static/js/787.066568cb.chunk.js": "/Entrega-tres/static/js/787.066568cb.chunk.js",
+    "index.html": "/Entrega-tres/index.html",
+    "main.bf622570.js.map": "/Entrega-tres/static/js/main.bf622570.js.map",
+    "787.066568cb.chunk.js.map": "/Entrega-tres/static/js/787.066568cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.03c2bb8e.js"
+    "static/js/main.bf622570.js"
   ]
 }
