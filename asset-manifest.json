@@ -1,6 +1,5 @@
 {
   "files": {
-    "main.css": "/Entrega-tres.git/static/css/main.31d6cfe0.css",
     "main.js": "/Entrega-tres.git/static/js/main.03c2bb8e.js",
     "static/js/787.066568cb.chunk.js": "/Entrega-tres.git/static/js/787.066568cb.chunk.js",
     "index.html": "/Entrega-tres.git/index.html",
@@ -8,7 +7,6 @@
     "787.066568cb.chunk.js.map": "/Entrega-tres.git/static/js/787.066568cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
     "static/js/main.03c2bb8e.js"
   ]
 }
