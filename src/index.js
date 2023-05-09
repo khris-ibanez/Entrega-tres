@@ -1,13 +1,24 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import { Saldo } from "./Saldo";
+import { Gastos } from "./Gastos";
+import { InputPresupuesto } from "./IngresarPresupuesto";
+import { IngresarGasto } from "./IngresarGasto";
+import { PresupuestoContextProvider } from "./ContextPresupuestoApp";
+import {Fecha} from './Nav'
+import reportWebVitals from "./reportWebVitals";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <PresupuestoContextProvider>
+      <Fecha/>
+      <InputPresupuesto />
+      <IngresarGasto />
+      <Saldo />
+      <Gastos />
+    </PresupuestoContextProvider>
   </React.StrictMode>
 );
 
